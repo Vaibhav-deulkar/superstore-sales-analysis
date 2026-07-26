@@ -85,3 +85,25 @@ jupyter notebook
 
 GitHub:
 https://github.com/Vaibhav-deulkar
+
+## 📷 Screenshots
+
+### Sales by Category
+
+![Sales by Category](images/sales_category.png)
+
+### Sales by Region
+
+![Sales by Region](images/sales_region.png)
+
+### Discount vs Profit
+
+![Discount vs Profit](images/discount_profit.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+### Profit by Category
+
+![Profit by Category](images/profit_by_category.png)
