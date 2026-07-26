@@ -1,2 +1,2 @@
 # superstore-sales-analysis
-This is my first Git Repository
+Data Analysis Project using Python, Pandas, Matplotlib and Seaborn. This project analyzes Superstore sales data to identify trends, profitability, customer segments and regional performance.
